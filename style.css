@@ -310,20 +310,20 @@ section {
     margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* PRICING SECTION */
 
-#experience {
+#pricing {
     position: relative;
 }
 
-.experience-sub-title {
+.pricing-sub-title {
     color: rgb(85, 85, 85);
     font-weight: 600px;
     font-size: 1.75rem;
     margin-bottom: 2rem;
 }
 
-.experience-details-container {
+.pricing-details-container {
     display: flex;
     justify-content: center;
     flex-direction: column;
